@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "naruto_mod:block/sasuke_dimension_portal_ew"
+    },
+    "axis=x": {
+      "model": "naruto_mod:block/sasuke_dimension_portal_ns"
+    }
+  }
+}

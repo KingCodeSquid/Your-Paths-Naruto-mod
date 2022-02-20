@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "naruto_mod:blocks/otsutsuki_dimension_stone",
+    "up": "naruto_mod:blocks/otsutsuki_dimension_stone",
+    "north": "naruto_mod:blocks/otsutsuki_dimension_stone",
+    "east": "naruto_mod:blocks/otsutsuki_dimension_stone",
+    "south": "naruto_mod:blocks/otsutsuki_dimension_stone",
+    "west": "naruto_mod:blocks/otsutsuki_dimension_stone",
+    "particle": "naruto_mod:blocks/otsutsuki_dimension_stone"
+  }
+}
